@@ -217,7 +217,7 @@ Possible future upgrades:
 | [Youssef Muhammad Hosni](https://github.com/you2662) | Team Member                                                                      |
 | Youssef Alaa Jalal                | Team Member                                                                      |
 | Mustafa Adel Sayed                | Team Member                                                                      |
-| Mahmoud Ashraf Mahmoud Kamel      | Team Member                                                                      |
+| [Mahmoud Ashraf Mahmoud Kamel](https://github.com/mahmoudashraf113)      | Team Member                                                                      |
 
 ---
 
