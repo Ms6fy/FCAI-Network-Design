@@ -212,9 +212,9 @@ Possible future upgrades:
 
 | Name                              | Role                                                                             |
 | --------------------------------- | -------------------------------------------------------------------------------- |
-| Mostafa Mahmoud Refai Metwally    | Team Leader • Network Architecture • Inter-VLAN Routing • DHCP • Troubleshooting |
-| Muhammad Ala' al-Din Abu al-Futuh (@mohamedorabii) | Team Member                                                                      |
-| Youssef Muhammad Hosni            | Team Member                                                                      |
+| [Mostafa Mahmoud Refai Metwally](https://github.com/Ms6fy) | Team Leader • Network Architecture • Inter-VLAN Routing • DHCP • Troubleshooting |
+| [Mohamed Orabii](https://github.com/mohamedorabii) |Team Member                                                                    |
+| [Youssef Muhammad Hosni](https://github.com/you2662) | Team Member                                                                      |
 | Youssef Alaa Jalal                | Team Member                                                                      |
 | Mustafa Adel Sayed                | Team Member                                                                      |
 | Mahmoud Ashraf Mahmoud Kamel      | Team Member                                                                      |
