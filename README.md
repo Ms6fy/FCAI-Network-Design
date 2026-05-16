@@ -24,7 +24,7 @@ The network was designed using:
 ---
 ## Network Topology
 
-![Topology](topology.png)
+![Topology](screenshots/topology.png)
 # 🏗️ Network Architecture
 ---
 ## 🔹 FCAI Branch
